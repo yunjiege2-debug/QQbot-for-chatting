@@ -5,7 +5,7 @@
 ![NapCat](https://img.shields.io/badge/NapCat-OneBot%2011-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-An intelligent QQ chatbot powered by **Ollama** (Local or Cloud-based Large Language Models). It establishes a connection with the **NapCat** framework via the **Python WebSocket** module, providing low-latency and highly flexible interactions for group chat entertainment and private messaging.
+This is an intelligent QQ chatbot powered by Ollama (Local or Cloud-based Large Language Models). It establishes a connection with the NapCat framework via the Python WebSocket module, providing low-latency and highly flexible interactions for group chat entertainment and private messaging.
 
 ---
 
