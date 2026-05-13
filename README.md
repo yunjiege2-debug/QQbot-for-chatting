@@ -11,10 +11,10 @@ An intelligent QQ chatbot powered by **Ollama** (Local or Cloud-based Large Lang
 
 ## BOT Features
 
- Powered by the Ollama framework, it supports various mainstream open-source models (Llama 3, Qwen, Gemma，GPT), ensuring privacy and remaining free.
- Utilizes the WebSocket protocol for seamless communication with NapCat.
- Supports multiple interaction modes, including group chat "@" mentions, keyword triggers, and private messaging.
- The bot is written in pure Python, allowing for easy integration of custom plugins or additional functionalities.
+· Powered by the Ollama framework, it supports various mainstream open-source models (Llama 3, Qwen, Gemma，GPT), ensuring privacy and remaining free.
+· Utilizes the WebSocket protocol for seamless communication with NapCat.
+· Supports multiple interaction modes, including group chat "@" mentions, keyword triggers, and private messaging.
+· The bot is written in pure Python, allowing for easy integration of custom plugins or additional functionalities.
 
 ---
 
