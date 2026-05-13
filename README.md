@@ -36,7 +36,7 @@ An intelligent QQ chatbot powered by **Ollama** (Local or Cloud-based Large Lang
 ### 2. Installation & Execution
 ```bash
 # Clone the repository
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+git clone https://github.com/yunjiege2-debug/QQbot-for-chatting-
 cd YOUR_REPO_NAME
 
 # Install dependencies
