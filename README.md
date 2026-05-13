@@ -11,7 +11,7 @@ An intelligent QQ chatbot powered by **Ollama** (Local or Cloud-based Large Lang
 
 ## BOT Features
 
-### Powered by the Ollama framework, it supports various mainstream open-source models (e.g., Llama 3, Qwen, Gemma), ensuring privacy and remaining completely free.
+### Powered by the Ollama framework, it supports various mainstream open-source models (Llama 3, Qwen, Gemma，GPT), ensuring privacy and remaining free.
 ### Utilizes the WebSocket protocol for seamless communication with NapCat.
 ### Supports multiple interaction modes, including group chat "@" mentions, keyword triggers, and private messaging.
 ### The bot is written in pure Python, allowing for easy integration of custom plugins or additional functionalities.
@@ -36,8 +36,9 @@ An intelligent QQ chatbot powered by **Ollama** (Local or Cloud-based Large Lang
 ### 2. Installation & Execution
 ```bash
 # Clone the repository
-git clone https://github.com/yunjiege2-debug/QQbot-for-chatting-
+
 cd YOUR_REPO_NAME
+git clone https://github.com/yunjiege2-debug/QQbot-for-chatting-
 
 # Install dependencies
 pip install -r requirements.txt
