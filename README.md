@@ -27,7 +27,7 @@ An intelligent QQ chatbot powered by **Ollama** (Local or Cloud-based Large Lang
 
 ---
 
-## 🚀 Quick Start
+## How To Start
 
 ### 1. Prerequisites
 * Install and run [Ollama](https://ollama.com/). Pull a model using: `ollama pull [model_name]` (Ensure the model name matches the one specified in your Python script).
